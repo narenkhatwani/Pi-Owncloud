@@ -1,5 +1,5 @@
 # Pi-Owncloud
-# About our project
+# About this project
 
 In this project we are building a Network Attached Storage (NAS) using a Raspberry pi 4. We have used owncloud and nextcloud setup 
 
